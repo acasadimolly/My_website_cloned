@@ -1,0 +1,24 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "A Casa di Molly "
+subtitle: |
+  Stanza in affita nella città eterna 
+content : |
+ Ampia stanza con ingresso indipendente a dieci minuti dalla metro Jonio. La camera ha un bagno privato, balcone e un angolo colazione composto da una penisola, lavandino, frigo, macchina caffè, bollitore e monta latte. <br> 
+
+ La stanza si trova all'interna di una pallazzina silenziosa circondata dal verde e con un parco privato.<br>
+
+ Per poter passare serate piacevoli troverete giochi di società e libri. <br>
+  Per ulteriori informazioni: <br>
+  +39 339 719 8685 <br>
+  bellonimarina69@gmail.com
+
+#button:
+#  label : "Get Started"
+#  link : "#first"
+
+#button:
+#  label : "Get Ended"
+#  link : "#first"
+image : "images/imagine_principale.png"
+

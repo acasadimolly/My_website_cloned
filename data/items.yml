@@ -1,0 +1,34 @@
+title : "Servizi dell’alloggio"
+content: |
+#  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Bagno privato"
+    #content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-shower"
+
+  # feature item loop
+  - name : "Wi-fi"
+    #content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-wifi"
+
+  # feature item loop
+  - name : "Aria condizionata"
+    #content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-thermometer-3"
+
+  # feature item loop
+  - name : "TV"
+    #content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-television"
+    
+  # feature item loop
+  - name : "Vicino alla metro"
+    #content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-train-subway-tunnel"
+
+  # feature item loop
+  - name : "Ingresso indipendente"
+    #content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-door-open"

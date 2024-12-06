@@ -1,0 +1,43 @@
+title: "Galleria"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+#  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+pictures:
+  - title: "Mappa"
+    #content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/mappa.png"
+    thumb: "images/gallery/thumbs/mappa_thumbnail.png"
+    button: "Ingrandire"
+
+  - title: "Buonanotte"
+    #content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/letto_final.png"
+    thumb: "images/gallery/thumbs/letto_thumbnail.png"
+    button: "Ingrandire"
+
+  - title: "Bagno in camera"
+    #content: "Bagno in camera"
+    image: "images/gallery/fulls/bagno.jpg"
+    thumb: "images/gallery/thumbs/bagno_thumbnail.png"
+    button: "Ingrandire"
+
+  - title: "Angolo colazione"
+    #content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/angolo_colazione_new.png"
+    thumb: "images/gallery/thumbs/angolo_colazione_thumbnail.png"
+    button: "Ingrandire"
+
+  - title: "Balcone"
+    #content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/balcone.jpg"
+    thumb: "images/gallery/thumbs/balcone_thumbnail.png"
+    button: "Ingrandire"
+
+  - title: "Giardino"
+    #content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/giardino_bambini.jpg"
+    thumb: "images/gallery/thumbs/giardino_thumbnail.png"
+    button: "Ingrandire"
+
+
+    
