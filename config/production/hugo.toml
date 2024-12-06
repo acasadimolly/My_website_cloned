@@ -17,7 +17,7 @@ baseURL = "https://a-casa-di-molly.netlify.app/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
