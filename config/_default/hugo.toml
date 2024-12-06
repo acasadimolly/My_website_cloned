@@ -12,7 +12,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://a-casa-di-molly.netlify.app/"
 publishDir = "public"
 
 # Remote
